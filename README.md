@@ -11,7 +11,7 @@ A DAG-based computational environment for finite element simulations, workflow o
 
 ## ⚡ Live Demo — Link DAG Pipeline + FEM Optimization
 
-![Link Demo](docs/demo.gif)
+![Link Demo](./demo.gif)
 
 This animation is generated from:
 
