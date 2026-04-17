@@ -2,10 +2,13 @@
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![FEM](https://img.shields.io/badge/FEM-FEniCS-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+[![Platform](https://img.shields.io/badge/Platform-Live-blue)](https://signup.elfenec.org)
+[![Blog](https://img.shields.io/badge/Blog-Articles-black)](https://ghost.elfenec.org/fenics-link/)
 
 # ⚙️ DAG — Computational FEM & Optimization Environment
 
 A DAG-based computational environment for finite element simulations, workflow orchestration, and automated hyperparameter optimization.
+📚 **Technical blog**: https://ghost.elfenec.org  
 
 ---
 
